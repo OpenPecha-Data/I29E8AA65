@@ -1,0 +1,28 @@
+id: I29E8AA65
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-SS-36
+  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  author: མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ། རྗེ་བཙུན་ཏཱ་ར་ནཱ་ཐ།, མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།,
+    མཛད་པ་པོ། རྗེ་བཙུན་ཏཱ་ར་ནཱ་ཐ།
+  authors: &id001
+  - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ། རྗེ་བཙུན་ཏཱ་ར་ནཱ་ཐ།
+  - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  - མཛད་པ་པོ། རྗེ་བཙུན་ཏཱ་ར་ནཱ་ཐ།
+  sku: RDI-SS-36
+  cover: RDI-SS-036.jpeg
+  volume: {}
+ebook_metadata:
+  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  authors: *id001
+  sku: RDI-SS-36
+  cover: RDI-SS-036.jpeg
+layers:
+- Author
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Yigchung
