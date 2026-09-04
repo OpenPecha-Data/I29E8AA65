@@ -2,7 +2,7 @@ id: I29E8AA65
 initial_creation_type: ebook
 source_metadata:
   id: RDI-SS-36
-  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  title: ཤེར་སྙིང་འགྲེལ་བ་ཕྱོགས་བསྒྲིགས་པད་དཀར་ཆུན་པོ།
   author: མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ། རྗེ་བཙུན་ཏཱ་ར་ནཱ་ཐ།, མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།,
     མཛད་པ་པོ། རྗེ་བཙུན་ཏཱ་ར་ནཱ་ཐ།
   authors: &id001
@@ -12,8 +12,9 @@ source_metadata:
   sku: RDI-SS-36
   cover: RDI-SS-036.jpeg
   volume: {}
+  title_source: epub:dc:title:ambiguous-layer
 ebook_metadata:
-  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  title: ཤེར་སྙིང་འགྲེལ་བ་ཕྱོགས་བསྒྲིགས་པད་དཀར་ཆུན་པོ།
   authors: *id001
   sku: RDI-SS-36
   cover: RDI-SS-036.jpeg
